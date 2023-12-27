@@ -1,4 +1,3 @@
-# cc-ddea
-Offline Data-Driven Optimization at Scale: A Cooperative Coevolutionary Approach
+# CC-DDEA
 
-Thank you for your interest in our paper; the source code will be released soon.
+Offline Data-Driven Optimization at Scale: A Cooperative Coevolutionary Approach
